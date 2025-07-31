@@ -186,7 +186,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbirChakraborty1703&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=AbirChakraborty1703&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
 </div>
 
 <br/>
