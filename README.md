@@ -87,7 +87,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 <div style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0, 217, 255, 0.1), 0 5px 15px rgba(0, 0, 0, 0.3);">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Programming Languages**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -96,13 +96,13 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 </div>
 
 ### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> **Cloud & Hosting**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> **Frontend & Backend**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -113,7 +113,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 </div>
 
 ### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> **Tools & Package Managers**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -124,7 +124,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 </div>
 
 ### <img src="https://media.giphy.com/media/AeWoyE3ZT90OI/giphy.gif" width="30"> **Databases**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <br/>
@@ -133,7 +133,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 </div>
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> **Machine Learning & Data Science**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
@@ -151,7 +151,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 </div>
 
 ### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> **Design & Analytics**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
   <br/>
@@ -161,7 +161,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 </div>
 
 ### <img src="https://media.giphy.com/media/kPTCBdX5FLdL7RjVra/giphy.gif" width="30"> **Blockchain & Web3**
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
