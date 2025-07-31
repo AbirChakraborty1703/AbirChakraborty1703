@@ -207,7 +207,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 
 <div align="center">
   <h2 style="color: #00D9FF; text-shadow: 0 0 10px #00D9FF;">
-    🐍 GitHub Contribution Snake
+    🐍 Classic Snake Game Animation
   </h2>
 </div>
 
@@ -215,7 +215,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake-dark.svg" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(0, 217, 255, 0.3));"/>
+    <img alt="Classic Snake Game Animation" src="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake-dark.svg" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(0, 255, 0, 0.3));"/>
   </picture>
 </div>
 
