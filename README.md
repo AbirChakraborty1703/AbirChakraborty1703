@@ -207,15 +207,15 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 
 <div align="center">
   <h2 style="color: #00D9FF; text-shadow: 0 0 10px #00D9FF;">
-    🐍 Classic Snake Game Animation
+    🐍 GitHub Contribution Snake
   </h2>
 </div>
 
-<div align="center" style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 30px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.2); margin: 20px 0;">
+<div align="center" style="background: linear-gradient(45deg, #f8f9fa, #ffffff, #f1f3f4); padding: 30px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); margin: 20px 0; border: 2px solid #e9ecef;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake.svg">
-    <img alt="Classic Snake Game Animation" src="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake-dark.svg" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(0, 255, 0, 0.3));"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake.svg" style="max-width: 100%; border-radius: 10px;"/>
   </picture>
 </div>
 
