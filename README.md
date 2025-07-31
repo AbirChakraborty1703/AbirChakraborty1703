@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://profile-counter.glitch.me/AbirChakraborty1703/count.svg?style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="Unique Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AbirChakraborty1703&style=for-the-badge&color=00d9ff&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AbirChakraborty1703?style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="Followers" />
 </div>
 
