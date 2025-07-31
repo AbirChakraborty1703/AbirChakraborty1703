@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=AbirChakraborty1703&style=for-the-badge&color=00d9ff" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/AbirChakraborty1703/count.svg?style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="Unique Profile Views" />
   <img src="https://img.shields.io/github/followers/AbirChakraborty1703?style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="Followers" />
 </div>
 
@@ -223,13 +223,6 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=AbirChakraborty1703&style=for-the-badge&color=00d9ff&labelColor=1a1a2e" alt="Profile Views"/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AbirChakraborty1703&icon=1&color=1&pretty=true" alt="Visit Count"/>
-  </a>
 </div>
 
 <div align="center">
