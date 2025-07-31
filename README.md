@@ -61,4 +61,12 @@ Below are some highlights of my technical expertise and experience:
 
 </div>
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake.svg)
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
