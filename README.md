@@ -138,7 +138,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <br/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <br/>
@@ -186,7 +186,13 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=AbirChakraborty1703&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbirChakraborty1703&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbirChakraborty1703&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 <br/>
