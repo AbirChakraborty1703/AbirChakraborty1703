@@ -65,7 +65,7 @@ Below are some highlights of my technical expertise and experience:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AbirChakraborty1703/AbirChakraborty1703/output/snake-dark.svg)
 
 </div>
 
