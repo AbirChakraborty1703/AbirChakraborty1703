@@ -60,7 +60,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://facebook.com/abirchakraborty999">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&shadow=0 4px 8px rgba(24, 119, 242, 0.3)" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/abirchakraborty999">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -72,7 +72,7 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="mailto:abirchakraborty1703@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
@@ -103,40 +103,51 @@ A dedicated student of **Computer Science and Engineering** at **JIS University*
 
 ### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> **Tools & Package Managers**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=npm,github,git&theme=dark" />
-  <img src="https://img.shields.io/badge/NODEMON-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
+  <img src="https://skillicons.dev/icons?i=npm,github,git,vscode&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/AeWoyE3ZT90OI/giphy.gif" width="30"> **Databases**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> **Machine Learning & Data Science**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> **Design & Analytics**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Creative Suite"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/kPTCBdX5FLdL7RjVra/giphy.gif" width="30"> **Blockchain & Web3**
 <div align="center">
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 </div>
 
 </div>
