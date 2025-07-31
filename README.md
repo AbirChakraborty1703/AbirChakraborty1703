@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Abir+Chakraborty+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Abir+Chakraborty+%F0%9F%91%8B;ASPIRING+SOFTWARE+ENGINEER+%F0%9F%92%BB;%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
 
 <div align="center">
